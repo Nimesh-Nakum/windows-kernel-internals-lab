@@ -74,6 +74,7 @@ If anything breaks — restore, do not troubleshoot on a running system.
 
 ## Repo Structure
 
+```
 windows-kernel-internals-lab/
 ├── README.md
 ├── docs/
@@ -100,3 +101,4 @@ windows-kernel-internals-lab/
 │   └── debugview.png
 └── notes/
 └── observations.md
+```
