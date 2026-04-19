@@ -17,7 +17,7 @@ This repo will not make sense without the conceptual foundation.
 Blog → then lab. In that order.
 
 > Blog: *BYOVD Explained — How Attackers Use Signed Drivers to Kill EDRs*  
-> `[YOUR_BLOG_LINK_HERE]`
+> `[https://medium.com/@nimeshnakum3/byovd-explained-how-attackers-use-signed-drivers-to-kill-edrs-37a96bde4094]`
 
 ---
 
