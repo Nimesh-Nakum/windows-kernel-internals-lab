@@ -86,19 +86,12 @@ windows-kernel-internals-lab/
 │   └── 06-full-picture.md
 ├── drivers/
 │   ├── hello-driver/
-│   │   ├── HelloDriver.c
 │   │   └── README.md
 │   └── ioctl-driver/
-│       ├── IoctlDriver.c
 │       └── README.md
 ├── userland/
 │   └── talk-to-driver/
-│       ├── TalkToDriver.cpp
 │       └── README.md
-├── screenshots/
-│   ├── process-hacker.png
-│   ├── windbg-output.png
-│   └── debugview.png
 └── notes/
 └── observations.md
 ```
