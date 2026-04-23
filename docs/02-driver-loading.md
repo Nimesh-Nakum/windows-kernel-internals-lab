@@ -1,7 +1,7 @@
 # 02 — Driver Loading: Watch Code Enter Ring 0
 
 **Tools:** DebugView++, Process Hacker, WinDbg  
-**Code:** `drivers/hello-driver/HelloDriver.c`  
+**Code:** `drivers/hello-driver/HelloDriver.c` (you can get with the help of any AI ) 
 **Time:** ~30 minutes  
 **Snapshot before starting**
 
