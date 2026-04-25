@@ -1,7 +1,7 @@
-
 # Windows Kernel Internals Lab
 
-Hands-on simulations built alongside the blog post  
+Hands-on lab to understand Windows kernel internals (drivers, IOCTL, callbacks, minifilters) through safe, observable simulations built alongside the blog post.
+
 **"BYOVD Explained — How Attackers Use Signed Drivers to Kill EDRs"**
 
 The blog explains the *why*. This repo shows the *what it looks like when you actually run it*.
